@@ -607,3 +607,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [26Sep2025 17:16:58.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: maikyto13 has made the advancement [Getting an Upgrade]
 [26Sep2025 17:17:45.034] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: maikyto13 lost connection: Disconnected
 [26Sep2025 17:17:45.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: maikyto13 left the game
+[26Sep2025 17:20:18.241] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Sep2025 17:20:18.258] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Sep2025 17:25:18.239] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Sep2025 17:25:18.245] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
